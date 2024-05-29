@@ -1,0 +1,14 @@
+numpy
+opencv-python-headless
+scipy
+torch
+facenet-pytorch
+matplotlib
+pillow
+warn
+typing
+logging-utilities
+lib-platform
+glob2
+urllib3
+tqdm
